@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1080039586295",
+    "project_id": "crud-97022",
+    "storage_bucket": "crud-97022.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080039586295:android:d3413131b27e13245d96f2",
+        "android_client_info": {
+          "package_name": "com.rd927.memo.memo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUnWhgK01PCM58PDxysx8814JNxMYH0cY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
