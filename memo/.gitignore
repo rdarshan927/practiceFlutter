@@ -43,3 +43,27 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Firebase configuration files
+lib/firebase_options.dart
+firebase.json
+.firebaserc
+google-services.json
+GoogleService-Info.plist
+
+# Environment files
+.env
+.env.*
+
+# Local configuration
+**/local.properties
+
+# Generated files
+**/generated_plugin_registrant.dart
+
+# Keystore files
+*.jks
+*.keystore
+*.p8
+*.p12
+*.key
